@@ -1,0 +1,15 @@
+0,rapid
+1,dinamo
+2,steaua
+0,rapid
+1,dinamo
+2,steaua
+0,rapid
+1,dinamo
+2,steaua
+0,rapid
+1,dinamo
+2,steaua
+0,rapid
+1,dinamo
+2,steaua
